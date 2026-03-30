@@ -157,7 +157,7 @@ section.howto{
     & img{
         height: 500px;
     }
-.medsos a: hover{
+medsos a: hover{
     color:black;
     background-color:rgb(223, 204, 151);
     border-radius:20px 0px 20px 0px;
