@@ -1,6 +1,6 @@
 html{
     scroll-behavior: smooth;
-    background-color: rgb(185, 166, 108);
+    background-color: rgb(99, 105, 74);
 }
 body{
     margin:0;
@@ -22,14 +22,14 @@ nav{
 nav a{
     text-decoration:none;
     border-radius: 20px 20px 0px 0px;
-    color:rgb(77, 52, 52);
+    color:rgb(56, 30, 30);
     font-size:20px;
     padding:5px 15px;
     font-family: Akronim;
 }
 nav a:hover{
     color:black;
-    background-color:rgb(229, 202, 127);
+    background-color:rgb(223, 204, 151);
     border-radius:20px 0px 20px 0px;
     box-shadow: 5px 2px 3px 0px  rgb(245, 206, 65);
     padding:7px 15px;
@@ -53,10 +53,10 @@ nav a:hover{
         color: azure;
     }
     & h3{
-        color: rgb(117, 106, 68);
+        color: rgb(219, 214, 202);
         padding: 10 px 10 px;
         border-radius: 10px;
-        background-color: rgba(206, 142, 97, 0.342);
+        background-color: rgba(140, 135, 77, 0.425);
     }
     & p{
         color: beige;
@@ -67,8 +67,8 @@ nav a:hover{
 }
 .deskripsihome a{
     text-decoration: none;
-    color: white;
-    background-color:rgb(61, 66, 51);
+    color: rgb(255, 255, 255);
+    background-color:rgb(236, 184, 85);
     padding:10px 25px;
     border-radius:30px;
     transition:0.3s;
@@ -78,11 +78,11 @@ nav a:hover{
     transition: 0.5s;
 }
 Section.project{
-    height: 800px;
+    height: 600px;
     text-align: center;
 }
 .containerabout{
-    width: 50%;
+    width: 40%;
     margin: auto;
     padding: 50px 20px;
     & img {
@@ -90,7 +90,7 @@ Section.project{
     }
 }
 .cardProfile{
-background-color: rgb(99, 85, 85);
+background-color: rgb(204, 149, 149);
 padding: 15px;
 width: 300px;
 margin: auto;
@@ -109,11 +109,12 @@ width:100%;
 }
 .medsos a{
     text-decoration: none;
+    color: black;
     padding: 10px 10px;
     font-size: 24px;
 }
 section.howto{
-    height: 640px;
+    height: 700px;
     padding-top: 10px;
     background-attachment: fixed;
     background-repeat: no-repeat;
