@@ -113,6 +113,14 @@ width:100%;
     padding: 10px 10px;
     font-size: 24px;
 }
+medsos a:hover{
+    color:black;
+    background-color:rgb(223, 204, 151);
+    border-radius:20px 0px 20px 0px;
+    box-shadow: 5px 2px 3px 0px  rgb(245, 206, 65);
+    padding:7px 15px;
+    transition:0.7s;
+}
 section.howto{
     height: 700px;
     padding-top: 10px;
@@ -157,12 +165,3 @@ section.howto{
     & img{
         height: 500px;
     }
-medsos a: hover{
-    color:black;
-    background-color:rgb(223, 204, 151);
-    border-radius:20px 0px 20px 0px;
-    box-shadow: 5px 2px 3px 0px  rgb(245, 206, 65);
-    padding:7px 15px;
-    transition:0.7s;
-}
-    
