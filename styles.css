@@ -116,9 +116,9 @@ width:100%;
 medsos a:hover{
     color:black;
     background-color:rgb(223, 204, 151);
-    border-radius:20px 0px 20px 0px;
+    border-radius:15px 15px 15px 15px;
     box-shadow: 5px 2px 3px 0px  rgb(245, 206, 65);
-    padding:7px 15px;
+    padding:10px;
     transition:0.7s;
 }
 section.howto{
